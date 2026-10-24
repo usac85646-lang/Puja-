@@ -1,0 +1,6 @@
+{
+  "name": "YESMIN AI - Android Architecture & Live Simulator",
+  "description": "Comprehensive Android architecture, Kotlin code structure, and live interactive simulator for YESMIN AI voice assistant with animated avatar, Gemini AI integration, and Android device controls.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
